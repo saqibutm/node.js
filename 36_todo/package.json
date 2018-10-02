@@ -1,7 +1,7 @@
 {
   "name": "31_to_do",
   "version": "1.0.0",
-  "description": "This is a Todo Application in Node.js",
+  "description": "This is a Todo Application in Node.js ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
